@@ -13,7 +13,7 @@ permettant l’analyse des données climatiques et l’aide à la prise de déci
 
 ## Équipe
 - Ihssan El Maanaoui
-- Mohammed
+- Mohamed Elmesghati
 
 ---
 
